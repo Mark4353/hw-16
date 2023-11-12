@@ -1,0 +1,13 @@
+body {
+    background-color: green;
+}
+
+.bg-box {
+    width: 1090px;
+    height: 1020px;
+    background-image: url(./images/house.jpg), url(./images/had.webp), url(./images/lamp.png), url(./images/donates.png), url(./images/glass.png);
+background-position: center, left,top,right,bottom;
+ background-size: auto, 50px, 50px, 50px, 400px;
+background-repeat: no-repeat, repeat-y, repeat-x, repeat-y, repeat-x;
+
+}
